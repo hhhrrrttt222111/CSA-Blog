@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body {
+  background: #b3ffcc;
+  margin-top: 5rem;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,51, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+
+ul {
+  margin: 0;
+}
+
+.bg-steel {
+  background-color: #00997a;
+}
+
+.post-count {
+    font-family: cursive
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-brand, .navbar-brand:hover {
+  color: #99ffbb;
+  font-weight: 700;
+}
+
+.nav-link {
+  color: #66ff99
+  font-weight: 500;
+}
+
+.nav-item {
+  color: #66ff99
+  font-weight: 500;
+}
+
+.nav-item-color {
+  color: #66ff99;
+  font-weight: 500;
+}
+
+.nav-item, .nav-item:hover, .nav-item:visited {
+  color: #66ff99
+  font-weight: 500;
+}
+
+.content-section {
+  background: #eccdf7;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.author, .author:hover {
+  color: #269900;
+  font-weight: 600;
+}
+
+.mr-2, .mr-2:hover {
+  color: #269900;
+  font-weight: 600;
+}
+
+.text-muted {
+    font-weight: 500;
+}
+
+.article-title, a.article-title:hover {
+  color: #00b36b;
+  text-decoration: none;
+  font-family: 'Lobster', cursive;
+}
+
+
+.article-content {
+  white-space: pre-line;
+  font-family: 'Sriracha', cursive;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
+
+.text-secondary {
+    font-weight: 700;
+}
+
+.btn-outline-info {
+    color: #fff;
+    background-color: #80ff80;
+    border-color: #80ff80;
+    font-weight: 600;
+}
+
+.btn-secondary, .btn-secondary:hover {
+    color: #fff;
+    background-color: #990099;
+    border-color: #990099;
+    font-weight: 600;
+}
+.btn-danger, .btn-danger:hover {
+    color: #fff;
+    background-color: #cc0000;
+    border-color: #cc0000;
+    font-weight: 600;
+}
+
+
+.about {
+    font-size: 20px;
+    font-weight: 600;
+    word-spacing: 2px;
+    font-family: 'Satisfy', cursive;
+}
+
+.footer {
+    background-color: none;
+}
+
+.footer-heart{
+	text-align:center;
+	font-family: open sans, sans-serif;
+	color: #00663d;
+    font-weight: 600;
+}
+
+.footer-heart a{
+    color: #1aff1a;
+     text-decoration: none;}
+
+.emoji{vertical-align: middle;}
