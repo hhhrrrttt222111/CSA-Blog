@@ -13,7 +13,8 @@
 
 ### Clone The Project:
 ```
-https://github.com/hhhrrrttt222111/csa_blog.git
+git clone https://github.com/hhhrrrttt222111/CSA-Blog.git
+cd CSA-Blog
 ```
 ### Install Project Pependencies:
 ```
